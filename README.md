@@ -6,7 +6,7 @@ NLP project to detect whether two questions are semantically similar, using the 
 
 > GitHub cannot render large notebooks. Click below to view the full notebook with all outputs:
 
-[![View on nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/shreyaarora66/question-pair-similarity/blob/master/question%20pair%20similarity.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shreyaarora66/question-pair-similarity/blob/master/question%20pair%20similarity.ipynb)
 
 ## Project Overview
 
